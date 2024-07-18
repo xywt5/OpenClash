@@ -9,3 +9,7 @@ DOMAIN-KEYWORD,magsrv
 DOMAIN-KEYWORD,afcdn.net
 DOMAIN-KEYWORD,doppiocdn
 ;DOMAIN-KEYWORD,
+
+# IP段匹配
+IP-CIDR,104.26.12.195/32,no-resolve
+IP-CIDR,172.67.175.205/32,no-resolve
