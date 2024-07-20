@@ -8,5 +8,9 @@ DOMAIN-SUFFIX,vcb-s.com
 DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,acg.rip
 
+# 电影电视剧下载网站
+DOMAIN-SUFFIX,2bt0.com
+DOMAIN-SUFFIX,seedhub.cc
+
 # 字幕的网站
 DOMAIN-SUFFIX,acgrip.com
