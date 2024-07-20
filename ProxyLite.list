@@ -2,6 +2,8 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,pixiv-recommend.net
+DOMAIN-SUFFIX,ads-pixiv.net
 
 # 机场和订阅
 DOMAIN-SUFFIX,cshjc.shop
