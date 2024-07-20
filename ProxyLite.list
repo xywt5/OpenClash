@@ -2,8 +2,6 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,pixiv-recommend.net
-DOMAIN-SUFFIX,ads-pixiv.net
 
 # 机场和订阅
 DOMAIN-SUFFIX,cshjc.shop
@@ -22,7 +20,6 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
-IP-CIDR,127.0.0.1/32,no-resolve
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
