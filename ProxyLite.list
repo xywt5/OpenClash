@@ -3,6 +3,9 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
+# maa
+DOMAIN-SUFFIX,ota.maa.plus
+
 # 方格音乐
 DOMAIN-SUFFIX,fonger.top
 DOMAIN-SUFFIX,morin.vin
