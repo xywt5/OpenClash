@@ -8,6 +8,8 @@ DOMAIN-KEYWORD,magsrv
 DOMAIN-KEYWORD,afcdn.net
 DOMAIN-KEYWORD,doppiocdn
 DOMAIN-KEYWORD,bbrdbr
+DOMAIN-KEYWORD,18-comic-minions.club
+DOMAIN-KEYWORD,18comic-erdtree.org
 
 # IP段匹配
 IP-CIDR,104.26.12.195/32,no-resolve
