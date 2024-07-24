@@ -24,6 +24,10 @@ DOMAIN-SUFFIX,feiniaoyun.xyz
 DOMAIN-SUFFIX,cloudfisher.net
 DOMAIN-SUFFIX,allllly.xyz
 
+# DNS泄露检测
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,ipleak.net
+
 # 网址导航
 DOMAIN-SUFFIX,acgbox.link
 
