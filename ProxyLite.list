@@ -40,7 +40,7 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
-IP-CIDR,127.0.0.1,no-resolve
+IP-CIDR,127.0.0.1/32,no-resolve
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
