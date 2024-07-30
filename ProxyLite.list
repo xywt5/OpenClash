@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,wallhaven.cc
 # galgame资源站
 DOMAIN-SUFFIX,shinnku.com
 
+# bangumi
+DOMAIN-SUFFIX,bangumi.app
+
 # maa
 DOMAIN-SUFFIX,ota.maa.plus
 
