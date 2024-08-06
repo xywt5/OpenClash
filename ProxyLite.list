@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,steamgriddb.com
 DOMAIN-SUFFIX,yaohubaba.com
 DOMAIN-SUFFIX,2048177.xyz
 
+# DNS泄露检测
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,browserleaks.com
+
 # 真棒壁纸
 DOMAIN-SUFFIX,wallhaven.cc
 
