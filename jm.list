@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,18-comic-minions.club
 DOMAIN-KEYWORD,18comic-erdtree.org
 DOMAIN-KEYWORD,jmfreedomproxy.one
 DOMAIN-KEYWORD,cdn-eldenringproxy.xyz
+DOMAIN-KEYWORD,18comic-erdtree.cc
 
 # IP段匹配
 IP-CIDR,104.26.12.195/32,no-resolve
