@@ -9,8 +9,6 @@ DOMAIN-SUFFIX,steamgriddb.com
 # ss
 DOMAIN-SUFFIX,yaohubaba.com
 DOMAIN-SUFFIX,2048177.xyz
-DOMAIN-SUFFIX,xiakekanpian.com
-DOMAIN-SUFFIX,bigcdn.cc
 
 # DNS泄露检测
 DOMAIN-SUFFIX,ipleak.net
