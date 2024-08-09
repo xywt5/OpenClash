@@ -14,11 +14,6 @@ DOMAIN-SUFFIX,bigcdn.cc
 DOMAIN-SUFFIX,mydaddy.cc
 DOMAIN-SUFFIX,go.xxxvjmp.com
 
-
-# DNS泄露检测
-DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,browserleaks.com
-
 # 真棒壁纸
 DOMAIN-SUFFIX,wallhaven.cc
 
