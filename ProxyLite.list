@@ -58,8 +58,6 @@ DOMAIN-SUFFIX,acgbox.link
 
 # GTA5线上小助手
 DOMAIN-SUFFIX,crazyzhang.cn
-# IP段匹配
-IP-CIDR,172.67.131.20/32,no-resolve
 
 
 # 域名关键字匹配
