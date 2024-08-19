@@ -19,6 +19,13 @@ DOMAIN-SUFFIX,ymetrica1.com
 DOMAIN-SUFFIX,aucdn.net
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,tsyndicate.com
+# IP段匹配
+IP-CIDR,66.254.114.41,no-resolve
+IP-CIDR,66.254.114.156,no-resolve
+IP-CIDR,64.210.147.21,no-resolve
+IP-CIDR,51.105.71.137,no-resolve
+
+
 
 # DNS泄露检测
 DOMAIN-SUFFIX,ipleak.net
