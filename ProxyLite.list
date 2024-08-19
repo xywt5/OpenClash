@@ -25,6 +25,14 @@ IP-CIDR,66.254.114.156/32,no-resolve
 IP-CIDR,64.210.147.21/32,no-resolve
 IP-CIDR,51.105.71.137/32,no-resolve
 
+IP-CIDR,20.189.173.25/32,no-resolve
+IP-CIDR,20.189.173.23/32,no-resolve
+IP-CIDR,64.210.147.18/32,no-resolve
+IP-CIDR,4.152.45.235/32,no-resolve
+IP-CIDR,20.187.186.89/32,no-resolve
+IP-CIDR,40.64.128.234/32,no-resolve
+IP-CIDR,4.152.45.235/32,no-resolve
+
 
 
 # DNS泄露检测
