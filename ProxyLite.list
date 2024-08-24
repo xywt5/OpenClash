@@ -43,6 +43,9 @@ DOMAIN-SUFFIX,ota.maa.plus
 DOMAIN-SUFFIX,fonger.top
 DOMAIN-SUFFIX,morin.vin
 
+# 音乐
+DOMAIN-SUFFIX,krosbits.in
+
 # 机场和订阅
 DOMAIN-SUFFIX,cdn.25054128.xyz
 DOMAIN-SUFFIX,ccdn.25054128.xyz
