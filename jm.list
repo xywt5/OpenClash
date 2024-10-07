@@ -22,6 +22,7 @@ DOMAIN-KEYWORD,jmapiproxy1.cc
 DOMAIN-KEYWORD,jmapiproxy2.cc
 DOMAIN-KEYWORD,jmapiproxy3.cc
 DOMAIN-KEYWORD,cdnxxx-proxy.vip
+DOMAIN-KEYWORD,cdnxxx-proxy.xyz
 
 # IP段匹配
 IP-CIDR,104.26.12.195/32,no-resolve
