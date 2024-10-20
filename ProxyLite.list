@@ -23,8 +23,7 @@ DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-SUFFIX,manhuapica.com
 
 # DNS泄露检测
-DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,browserleaks.com
+
 
 # 真棒壁纸
 DOMAIN-SUFFIX,wallhaven.cc
