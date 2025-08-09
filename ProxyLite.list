@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,wallhaven.cc
 
 # galgame资源站
 DOMAIN-SUFFIX,shinnku.com
+DOMAIN-SUFFIX,galgame.dev
 
 # bangumi
 DOMAIN-SUFFIX,bangumi.app
