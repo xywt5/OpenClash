@@ -22,5 +22,6 @@ DOMAIN-SUFFIX,si-qi.xyz
 #emby 弹幕
 DOMAIN-SUFFIX,7o7o.cc
 DOMAIN-SUFFIX,ddplay-api.7o7o.cc
+DOMAIN-SUFFIX,dandanplay.net
 # 域名关键字匹配
 DOMAIN-KEYWORD,ddplay-api.7o7o.cc
