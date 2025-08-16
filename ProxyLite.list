@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,shinnku.com
 DOMAIN-SUFFIX,shinnku.top
 DOMAIN-SUFFIX,galgame.dev
 
+#游戏
+DOMAIN-SUFFIX,koyso.to
+
 # bangumi
 DOMAIN-SUFFIX,bangumi.app
 DOMAIN-SUFFIX,bgm.tv
