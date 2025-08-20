@@ -96,6 +96,7 @@ DOMAIN-KEYWORD,pixiv
 
 # IP段匹配
 IP-CIDR,51.89.23.43/32,no-resolve
+IP-CIDR,46.250.248.203/32,no-resolve
 
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
