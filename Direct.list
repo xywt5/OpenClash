@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,steamhost.info
 DOMAIN-SUFFIX,worldofwarships.jp
 
+#碧蓝航线
+DOMAIN-SUFFIX,unity3d.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
