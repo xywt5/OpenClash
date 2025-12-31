@@ -1,7 +1,8 @@
 # 代理补充列表
 
 # 域名关键字匹配
-
+#ani-rss
+DOMAIN-SUFFIX,wushuo.top
 # 番剧BT下载网站
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,vcb-s.com
