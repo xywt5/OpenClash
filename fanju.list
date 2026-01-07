@@ -3,6 +3,8 @@
 # 域名关键字匹配
 #ani-rss
 DOMAIN-SUFFIX,wushuo.top
+
+DOMAIN-SUFFIX,watanare-anime.com
 # 番剧BT下载网站
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,vcb-s.com
